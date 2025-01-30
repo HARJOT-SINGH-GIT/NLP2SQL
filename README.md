@@ -19,6 +19,6 @@ This project is a **Natural Language to SQL Converter** built using Streamlit, V
 - Plotly
 - dotenv
 
-## Setup Instructions
+
 
 

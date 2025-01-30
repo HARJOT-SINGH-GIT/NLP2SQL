@@ -21,8 +21,4 @@ This project is a **Natural Language to SQL Converter** built using Streamlit, V
 
 ## Setup Instructions
 
-1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/your_username/nlp_to_sql_converter.git
-   cd nlp_to_sql_converter
